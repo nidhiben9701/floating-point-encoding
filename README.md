@@ -17,14 +17,14 @@ You may upload scan copy of your as supporting documentation.
 
 ## Problems:
 
-### 2#   -  11.01 x 2^ 10010
+### 2#   -  11.01 x 2^ 10010  (unnormalized exponential form)
 
   1. Convert to base 2:
-  1. Scientific Notation: 2#   -  11.01 x 2^ 10010
+  1. Scientific Notation: 2#   -  1.101 x 2^ 10011 (normalized exponential form)
   1. IEEE Binary16:
   1. IEEE Binary32:
 
-### 2#   2# - 0.00010010 
+### 2# - 0.00010010 
 
   1. Convert to base 2: 2# - 0.00010010 
   1. Scientific Notation: 
