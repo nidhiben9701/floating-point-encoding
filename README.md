@@ -1,55 +1,20 @@
 # Base Conversion and Floating Point Representation
 
-For each of the following numbers, perform the following steps:
-  1. Convert the number into base 2
-     - [Real Decimal: Conversions](https://docs.google.com/spreadsheets/d/1hFLdgZyMKYMnoeJAg3BagODZUXeTYK5UUrIciO6r4AU/edit#gid=1434558784)
+## Directions:
+  1. Clone this repository to your desktop computer
+  1. Copy the "assignment.md" file to "answers.md"
+  1. Add the "answers.md" file to your repo git add answers.md
+  1. Commit this file to your local repo git commit -m 'starting the assignment'
+  1. Push this file to the remote repo git push
 
-  1. Represent the number as in Scientific Notation
+## Work on the Assignment
+  1. Edit the "answers.md" file to incorporate your answers.
+  1. For each of the problems in the answers.md file, perform the following steps:
+     1. Represent the number as a binary (base 2) number
+     1. Represent the number as in Scientific Notation (using base 2)
+     1. Represent the number in IEEE binary16 format
+     1. Represent the number in IEEE binary32 format
 
-  1. Convert the number into IEEE binary16 and binary32 format
-     - [Conversion to Float](https://github.com/COMP122/class-material/blob/main/LectureNotes/format_encodings/Oct_7/Conversion_2Float.md)
-
-Provided you answers in the space provided below:
-
-You may upload scan copy of your as supporting documentation.
-
-## Due Date:  Saturday at 1 minute before midnight.
-
-## Problems:
-
-### 2#   -  11.01 x 2^ 10010  (unnormalized exponential form)
-
-  1. Convert to base 2:
-  1. Scientific Notation: 2#   -  1.101 x 2^ 10011 (normalized exponential form)
-  1. IEEE Binary16:
-  1. IEEE Binary32:
-
-### 2# - 0.00010010 
-
-  1. Convert to base 2: 2# - 0.00010010 
-  1. Scientific Notation: 
-  1. IEEE Binary16:
-  1. IEEE Binary32:
-
-
-### 8#  12.34
-
-  1. Convert to base 2:
-  1. Scientific Notation: 
-  1. IEEE Binary16:
-  1. IEEE Binary32:
-
-
-### 16# - 0.0FF
-
-  1. Convert to base 2:
-  1. Scientific Notation: 
-  1. IEEE Binary16:
-  1. IEEE Binary32:
-
-
-### 10# 3.14
-  1. Convert to base 2:
-  1. Scientific Notation: 
-  1. IEEE Binary16:
-  1. IEEE Binary32:
+## Resources: 
+  * [Real Decimal: Conversions](https://docs.google.com/spreadsheets/d/1aMvlfw_rzvYBObT94dX8v_O0EgELHgWrmZgWKmoLY7s/edit#gid=1434558784)
+  * [Conversion to Float](https://github.com/COMP122/class-material/blob/main/LectureNotes/format_encodings/Oct_7/Conversion_2Float.md)
