@@ -1,14 +1,15 @@
 # Base Conversion and Floating Point Representation
 
-## Directions:
-  1. Clone this repository to your desktop computer
-  1. Copy the "assignment.md" file to "answers.md"
-  1. Add the "answers.md" file to your repo git add answers.md
-  1. Commit this file to your local repo git commit -m 'starting the assignment'
-  1. Push this file to the remote repo git push
+  1. Clone this repository to your computer.  
+  2. Review the "assignment.md" file.
+  3. Make a copy of this file, naming it "submission.md".
+  4. Edit this file to include your name in the appropriate location.
+  5. Add this file to your local repository.
+  6. Commit this file to your local repository.
+  7. Push the current contents of your local repository to remote repository.
 
 ## Work on the Assignment
-  1. Edit the "answers.md" file to incorporate your answers.
+  1. Edit the "submission.md" file to incorporate your answers.
   1. For each of the problems in the answers.md file, perform the following steps:
      1. Represent the number as a binary (base 2) number
      1. Represent the number as in Scientific Notation (using base 2)
