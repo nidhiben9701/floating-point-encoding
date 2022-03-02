@@ -1,62 +1,62 @@
 # Base Conversion and Floating Point Representation
 --
-## Name:                                 <!-- answer -->
-## Due Date:
+## Name:                                 <!-- response -->
+## Due Date: March 8, 2020 at 11:59 PM
 
 ## Problems:
 
 ### 2# - 11.01 x 2^ 1 0010  (unnormalized exponential form)
 
-  1. Convert to base 2: - 11010000000000000000.0        <!-- answer -->
-  1. Scientific Notation: 2# - 1.101 x 2^ 10011         <!-- answer -->
+  1. Convert to base 2: - 11010000000000000000.0        <!-- response -->
+  1. Scientific Notation: 2# - 1.101 x 2^ 10011         <!-- response -->
   1. IEEE Binary16: 
-     * x | 1 0010 | xxxx xxxx xx                        <!-- answer -->
+     * x | 1 0010 | xxxx xxxx xx                        <!-- response -->
      * 15 (bias) + 19 = 34 -> 1 0010 
 
   1. IEEE Binary32:
-     * x | xxxx xxxx | xxxx xxxx xxxx xxxx xxxx xxx     <!-- answer -->
-     * 127 (bias) + = ->
+     * x | xxxx xxxx | xxxx xxxx xxxx xxxx xxxx xxx     <!-- response -->
+     * 127 (bias)  x + x = xxxx xxxx ->                 <!-- response -->
 
 
 ### 2# - 0.00010010 
 
-  1. Convert to base 2: 2# - 0.00010010                 <!-- answer -->
-  1. Scientific Notation:                               <!-- answer -->
+  1. Convert to base 2: 2# - 0.00010010                 <!-- response -->
+  1. Scientific Notation:                               <!-- response -->
   1. IEEE Binary16:
-     *                                                  <!-- answer -->
-     *
+     *                                                  <!-- response -->
+     *                                                  <!-- response -->
   1. IEEE Binary32:
-     *                                                  <!-- answer -->
-     *
+     *                                                  <!-- response -->
+     *                                                  <!-- response -->
 
 
 ### 8#  12.34
-  1. Convert to base 2:                                 <!-- answer -->
-  1. Scientific Notation:                               <!-- answer -->
+  1. Convert to base 2:                                 <!-- response -->
+  1. Scientific Notation:                               <!-- response -->
   1. IEEE Binary16:
-     *                                                  <!-- answer -->
+     *                                                  <!-- response -->
      *
   1. IEEE Binary32:
-     *                                                  <!-- answer -->
+     *                                                  <!-- response -->
      *
 
 ### 16# - 0.0FF
-  1. Convert to base 2:                                 <!-- answer -->
-  1. Scientific Notation:                               <!-- answer -->
+  1. Convert to base 2:                                 <!-- response -->
+  1. Scientific Notation:                               <!-- response -->
   1. IEEE Binary16:
-     *                                                  <!-- answer -->
+     *                                                  <!-- response -->
      *
   1. IEEE Binary32:
-     *                                                  <!-- answer -->
+     *                                                  <!-- response -->
      *
 
 
 ### 10# 3.14
-  1. Convert to base 2:                                 <!-- answer -->
-  1. Scientific Notation:                               <!-- answer -->
+  1. Convert to base 2:                                 <!-- response -->
+  1. Scientific Notation:                               <!-- response -->
   1. IEEE Binary16:
-     *                                                  <!-- answer -->
+     *                                                  <!-- response -->
      *
   1. IEEE Binary32:
-     *                                                  <!-- answer -->
+     *                                                  <!-- response -->
      *
