@@ -1,7 +1,8 @@
 # Base Conversion and Floating Point Representation
+## Due Date: March 8, 2020 at 11:59 PM
 --
 ## Name:                                 <!-- response -->
-## Due Date: March 8, 2020 at 11:59 PM
+## GitHub Account:                       <!-- response -->
 
 ## Problems:
 
