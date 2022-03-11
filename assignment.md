@@ -9,7 +9,9 @@
 ### 2# - 11.01 x 2^ 1 0010  (unnormalized exponential form)
 
   1. Convert to base 2: - 11010000000000000000.0        <!-- response -->
+
   1. Scientific Notation: 2# - 1.101 x 2^ 10011         <!-- response -->
+
   1. IEEE Binary16: 
      * x | 1 0010 | xxxx xxxx xx                        <!-- response -->
      * 15 (bias) + 19 = 34 -> 1 0010 
