@@ -13,8 +13,9 @@
   1. Scientific Notation: 2# - 1.101 x 2^ 10011         <!-- response -->
 
   1. IEEE Binary16: 
-     * x | 1 0010 | xxxx xxxx xx                        <!-- response -->
-     * 15 (bias) + 19 = 34 -> 1 0010 
+     * x | error | xxxx xxxx xx                         <!-- response -->
+     * 15 (bias) + 19 = 34 -> 10 0010 
+     * Note that you need 6 bits to represent the exponent, but only have 5 bits are allowed.
 
   1. IEEE Binary32:
      * x | xxxx xxxx | xxxx xxxx xxxx xxxx xxxx xxx     <!-- response -->
